@@ -1,0 +1,5 @@
+Student id: 1 || -> Operation: Add() || Time: 2023/07/01 10:56:51
+Student id: 2 || -> Operation: Add() || Time: 2023/07/01 10:56:51
+Student id: 2 || -> Operation: Update() || Time: 2023/07/01 10:56:51
+Student id: 2 || -> Operation: retrive() || Time: 2023/07/01 10:56:51
+Student id: 1 || -> Operation: Delete() || Time: 2023/07/01 10:56:51
